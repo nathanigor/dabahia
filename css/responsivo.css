@@ -229,7 +229,8 @@ h3{
     border-color: #222831;
 }
 .empresas .empresas5{
-    margin: 0px 0px 0px 72px;
+        margin: auto;
+    margin-left: 60px;
 }
 
 .empresas .empresas1, .empresas3, .empresas4, .empresas5, .empresas6{
